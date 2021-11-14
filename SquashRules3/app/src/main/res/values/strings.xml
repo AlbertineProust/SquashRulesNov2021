@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AnswerShouldHaveBeen">Answer should have been</string>
+    <string name="AnswersAnswerShouldvBinLabel">The answer should have been</string>
+    <string name="AnswersQuestionLabel">The question was</string>
+    <string name="AnswersYourAnswerLabel">Your answer was</string>
+    <string name="Done">Done?</string>
+    <string name="ExplanationLabel">Explanation</string>
+    <string name="False">False</string>
+    <string name="GoBackFalse">False recorded. If you are happy use the back button</string>
+    <string name="GoBackTrue">True recorded. If you are happy use the back button</string>
+    <string name="Question">Question</string>
+    <string name="QuestionsAnsweredSoFar">Questions answered so far</string>
+    <string name="TheCurrentAnswer">Some dummy data for the current answer</string>
+    <string name="TheCurrentQuestion">Some dummy data for the current question</string>
+    <string name="True">True</string>
+    <string name="TrueOrFalse">Select true or false then press the back button</string>
+    <string name="YourAnswerWasRightOrWrongLabel">Your answer was</string>
+    <string name="YourAnswerWasRightorWrong">Your answer was right</string>
+    <string name="YourAnswerWasTrueorFalse">Your answer was</string>
+    <string name="YourAnswerWasWrong">Your answer was wrong</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Squash Rules True or False?</string>
+    <string name="seeAnswersToast">Answers complete.Tap any question for its answer, or swipe right to continue</string>
+    <string name="title_activity_answers">AnswersActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="youWereRight">Right</string>
+    <string name="youWereSoWrong">Wrong</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

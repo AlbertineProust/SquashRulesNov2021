@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:weightSum="1">
+    <TextView android:textSize="20dp" android:gravity="center_horizontal" android:layout_gravity="fill_horizontal" android:paddingLeft="40dp" android:paddingTop="50dp" android:layout_width="353dp" android:layout_height="wrap_content" android:text="@string/TrueOrFalse"/>
+    <TextView android:textSize="20dp" android:id="@+id/TheCurrentQuestion" android:paddingLeft="20dp" android:paddingTop="40dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/TheCurrentQuestion" android:height="40dp" android:layout_weight="0.25" android:textAlignment="center" style="BigTextStyle"/>
+    <LinearLayout android:orientation="horizontal" android:paddingLeft="90dp" android:paddingRight="40dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="40dp" android:paddingEnd="40dp">
+        <Button android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/Question_is_true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="36dp" android:text="@string/True" android:paddingStart="12dp"/>
+        <Button android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/Question_is_false" android:clickable="true" android:layout_width="wrap_content" android:layout_height="36dp" android:text="@string/False"/>
+    </LinearLayout>
+</LinearLayout>
